@@ -56,14 +56,16 @@
       "name": "\uD83D\uDDBC Система аватарок",
       "description": "Система аватарок\\nДобавлена команда \"ава\"\\nДля настройки админ чата отправьте /set_avatar_chat в админ чат",
       "url": "https://raw.githubusercontent.com/Maksim534/bfg-modules/refs/heads/main/avatar.py"
-    }
-  },
-
-  "system": {
+    },
     "youtube": {
       "name": "\uD83D\uDDBC Система ютуба",
       "description": "бубуббу",
       "url": "https://raw.githubusercontent.com/Maksim534/bfg-modules/refs/heads/main/youtube.py"
+    }
+  }
+
+  "system": {
+    
     }
   }
 
