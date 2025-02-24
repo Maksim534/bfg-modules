@@ -59,7 +59,11 @@
     }
   },
 
-  "system": {
-
+  "system":  {
+    "youtube": {
+      "name": "\uD83D\uDDBC Система ютуба",
+      "description": "бубуббу",
+      "url": "https://raw.githubusercontent.com/Maksim534/bfg-modules/refs/heads/main/youtube.py"
+    }
   }
-}
+
