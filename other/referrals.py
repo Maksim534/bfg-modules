@@ -2,7 +2,7 @@ import sqlite3
 from decimal import Decimal
 
 from aiogram import types, Dispatcher
-from aiogram.dispatcher import FSMContext
+from aiogram.fsm.context import FSMContext
 from aiogram.dispatcher.filters.state import StatesGroup, State
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from assets.classes import CastomEvent
